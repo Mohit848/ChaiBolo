@@ -25,5 +25,3 @@ export const taglineStyle = {
     pb:'10%'
     
 }
-export const ParentDivStyle = {
-}
