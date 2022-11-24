@@ -3,12 +3,19 @@ export const parentBox = {
     backgroundColor:'#FC6363',
     textAlign:'center',
     justifyContent:'center',
-    paddingTop:'25px'
+    paddingTop:{
+        xs:'11%',
+        sm:'5%',
+        md:'2%'
+    }
 }
 
 export const headerText = {
     fontFamily:'Montserrat',
-    fontSize:'2.5rem',
+    fontSize:{
+        xs:'1.5rem',
+        md:'2.5rem'
+    },
     fontWeight:'700',
     color:'#FFFAD7',
     border:'1px solid',
